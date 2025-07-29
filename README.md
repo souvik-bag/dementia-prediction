@@ -95,13 +95,4 @@ dementia/
   device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
   ```
 
-## Contributing
 
-1. Fork this repo  
-2. Create a feature branch  
-3. Commit your changes & push  
-4. Open a pull request for review
-
----
-
-_Built July 2025 · University of Missouri · Research on
