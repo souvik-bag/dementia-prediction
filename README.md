@@ -1,4 +1,4 @@
-# Dementia Forecasting with LSTM & Conformal Prediction
+# Time Series Forecasting with LSTM & Conformal Prediction
 
 A Jupyter‐based pipeline to forecast a time‐series (units sold) using a PyTorch LSTM, augmented with split–conformal prediction intervals.  
 This project demonstrates how to compute valid predictive intervals under a miscoverage parameter α, and how to adapt conformal methods to non‐exchangeable time‐series data (e.g. dementia progression forecasting).
