@@ -77,6 +77,9 @@ dementia/
    forecast_horizon = 200
    ```
 
+![Conformal LSTM Forecasting](plots/lstm_pi.png)
+
+
 ## Troubleshooting
 
 - **RPC failed; HTTP 400** when doing `git push`  
