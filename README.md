@@ -29,7 +29,7 @@ dementia/
 
 1. Clone via SSH (recommended)  
    ```bash
-   git clone git@github.com:UniversityofMissouri/dementia.git
+   git clone git@github.com:souvik-bag/dementia-prediction.git
    cd dementia
    ```
 
