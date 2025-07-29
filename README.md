@@ -76,7 +76,13 @@ dementia/
    look_back = 10
    forecast_horizon = 200
    ```
+```
+Below we generate conformal prediction intervals for miscoverage levels  
+α = 0.05, 0.1, 0.2, and 0.3, and report both the empirical coverage and the average interval width. 
 
+As the allowed miscoverage α increases, the intervals become narrower and the observed coverage goes down.
+Note that conventional conformal methods assume exchangeability, which is violated in time‐series data—making it an interesting challenge to adapt these techniques for forecasting applications such as dementia
+```
 ![Conformal LSTM Forecasting](plots/lstm_pi.png)
 
 
